@@ -217,6 +217,7 @@ list(APPEND libSources
     accounts/AccountFactoryWrapper.cpp
     accounts/AccountFactoryWrapperDelegate.cpp
     accounts/AccountConfigWidget.cpp
+    accounts/LocalConfigStorage.cpp
 
     accounts/spotify/SpotifyAccount.cpp
     accounts/spotify/SpotifyAccountConfig.cpp
