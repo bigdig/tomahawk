@@ -102,7 +102,6 @@
 #include <sys/sysctl.h>
 #endif
 
-#include <QPluginLoader>
 #include <QDir>
 #include <QMetaType>
 #include <QTime>
